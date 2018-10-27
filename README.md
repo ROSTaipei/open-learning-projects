@@ -14,7 +14,7 @@ Besides, we also collect many external learning notes and projects [here](#exter
 
 ## List
  
-* [Robotic Lamp](Robotic Lamp/README.md) ([@kevinphys](https://github.com/kevinphys)) - 
+* [Robotic Lamp](Robotic%20Lamp) ([@kevinphys](https://github.com/kevinphys)) - 
 
 ## External Project List
 
