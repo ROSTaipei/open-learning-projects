@@ -17,11 +17,3 @@
 ## How to calibrate
 
 現階段的版本是直接控制
-
-TP-LINK_Pocket_3020_DDCA72
-
-network={
-        ssid="TP-LINK_Pocket_3020_DDCA72"
-        #psk="17791779"
-        psk=5fdc813913815d25cda213a414402a2c7617a6fd5bb1298527f7c4bd13ee5cb8
-}
